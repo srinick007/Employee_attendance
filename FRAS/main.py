@@ -12,9 +12,9 @@ def title_bar():
 
     # title of the program
 
-    print("\t**********************************************")
-    print("\t***** Face Recognition Attendance System *****")
-    print("\t**********************************************")
+    print("\t***************************************")
+    print("\t***** Employee Attendance System *****")
+    print("\t***************************************")
 
 
 # creating the user main menu function
