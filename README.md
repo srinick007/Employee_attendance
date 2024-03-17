@@ -1,6 +1,6 @@
-# Face Recognition Attandance System
+# Face Recognition Employee Attandance System
 
-### Recognize The faces And Take Automatic Attandance. :sparkles:
+### Recognize The faces And Take Automatic Employee Attandance. :
 
 ## Installation
 
